@@ -1,0 +1,3 @@
+# Ignore Google Sheets API credentials
+config/trader_gsheets_api.json
+
